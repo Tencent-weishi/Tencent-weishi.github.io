@@ -1,0 +1,55 @@
+/**
+ * 技术信息：请求参数
+ * 请参考: https://bazhan.me/faq
+*/
+{
+    "directory": "www-a-weishi-com-876f9b8e",
+    "options": {
+        "url": "http://www.a-weishi.com/",
+        "ipaddress": "154.83.14.68",
+        "domain": "www.a-weishi.com",
+        "request": {
+            "headers": {
+                "Accept": "text/html,*/*",
+                "Accept-language": "zh-CN,zh;q=0.9",
+                "Accept-Encoding": "gzip",
+                "Cache-control": "no-cache",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "X-Scraper-WebSite": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Sat, 11 Jul 2020 03:36:01 GMT",
+                "content-type": "text/html;charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "x-content-type-options": "nosniff",
+                "x-xss-protection": "1; mode=block",
+                "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+                "pragma": "no-cache",
+                "expires": "0",
+                "x-frame-options": "SAMEORIGIN",
+                "content-language": "zh-CN",
+                "content-encoding": "gzip"
+            }
+        }
+    },
+    "formatter": {
+        "css": false,
+        "html": false,
+        "javascript": false,
+        "save-original": true
+    },
+    "user": {
+        "isWhite": false
+    },
+    "time": {
+        "start": 1594438585183,
+        "end": 1594438611818,
+        "spend": "26.635s"
+    }
+}

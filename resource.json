@@ -1,0 +1,272 @@
+/**
+ * 技术信息：资源信息
+ * 请参考: https://bazhan.me/faq
+*/
+{
+    "success": [
+        {
+            "url": "http://www.a-weishi.com/",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "http://www.a-weishi.com/assets/common/images/bgimg.png",
+                    "path": "images/bgimg.png",
+                    "children": []
+                },
+                {
+                    "url": "http://qzonestyle.gtimg.cn/aoi/img/video-loading-bg.png",
+                    "path": "images/video-loading-bg.png",
+                    "children": []
+                },
+                {
+                    "url": "http://qzonestyle.gtimg.cn/aoi/img/video-loading.gif",
+                    "path": "images/video-loading.gif",
+                    "children": []
+                },
+                {
+                    "url": "http://qzonestyle.gtimg.cn/qzone/hybrid/common/videoPlayer/img/big-play-button.png",
+                    "path": "images/big-play-button.png",
+                    "children": []
+                },
+                {
+                    "url": "http://qzonestyle.gtimg.cn/qzone/hybrid/common/videoPlayer/img/error.jpg",
+                    "path": "images/error.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.a-weishi.com/assets/expand/plugins/jquery/jquery-3.2.1.min.js?v=20200318",
+                    "path": "js/jquery-3.2.1.min.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.a-weishi.com/assets/common/libs/layui/layui.js?v=20200318",
+                    "path": "js/layui.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.a-weishi.com/assets/common/module/index.js?v=20200318",
+                    "path": "js/index.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.a-weishi.com/assets/common/js/common.js?v=20200318",
+                    "path": "js/common.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.a-weishi.com/assets/logo/css/bootstrap2.css",
+                    "path": "css/bootstrap2.css",
+                    "children": []
+                },
+                {
+                    "url": "http://www.a-weishi.com/assets/common/css/logores.css",
+                    "path": "css/logores.css",
+                    "children": [
+                        {
+                            "url": "http://www.a-weishi.com/assets/logo/img/logo-l.png",
+                            "path": "images/logo-l.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/slide.png",
+                            "path": "images/slide.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/bg1.jpg",
+                            "path": "images/bg1.jpg",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/bg2.jpg",
+                            "path": "images/bg2.jpg",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/bg3.jpg",
+                            "path": "images/bg3.jpg",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/bg4.jpg",
+                            "path": "images/bg4.jpg",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/btn-android.png",
+                            "path": "images/btn-android.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/btn-ios.png",
+                            "path": "images/btn-ios.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/tit1.png",
+                            "path": "images/tit1.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/sprite/page-index-180807105629.png",
+                            "path": "images/page-index-180807105629.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/fume1.png",
+                            "path": "images/fume1.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/fume2.png",
+                            "path": "images/fume2.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/fume3.png",
+                            "path": "images/fume3.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/fume4.png",
+                            "path": "images/fume4.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/fume5.png",
+                            "path": "images/fume5.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/ball.png",
+                            "path": "images/ball.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/person2.png",
+                            "path": "images/person2.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/person3.png",
+                            "path": "images/person3.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/person4.png",
+                            "path": "images/person4.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/bg5.jpg",
+                            "path": "images/bg5.jpg",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/btn-android-l.png",
+                            "path": "images/btn-android-l.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/btn-ios-l.png",
+                            "path": "images/btn-ios-l.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/tit1-l.png",
+                            "path": "images/tit1-l.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/fume1-l.png",
+                            "path": "images/fume1-l.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/fume2-l.png",
+                            "path": "images/fume2-l.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/fume3-l.png",
+                            "path": "images/fume3-l.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/fume4-l.png",
+                            "path": "images/fume4-l.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/fume5-l.png",
+                            "path": "images/fume5-l.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/ball-l.png",
+                            "path": "images/ball-l.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/sprite/page-index-180807105629@2x.png",
+                            "path": "images/page-index-180807105629@2x.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/tit1-l@2x.png",
+                            "path": "images/tit1-l@2x.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/fume1-l@2x.png",
+                            "path": "images/fume1-l@2x.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/fume2-l@2x.png",
+                            "path": "images/fume2-l@2x.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/fume3-l@2x.png",
+                            "path": "images/fume3-l@2x.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/fume4-l@2x.png",
+                            "path": "images/fume4-l@2x.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/fume5-l@2x.png",
+                            "path": "images/fume5-l@2x.png",
+                            "children": []
+                        },
+                        {
+                            "url": "https://qzonestyle.gtimg.cn/qz-proj/weishi-pc/img/index/ball-l@2x.png",
+                            "path": "images/ball-l@2x.png",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.a-weishi.com/assets/common/images/bgvideo.mp4",
+                    "path": "media/bgvideo.mp4",
+                    "children": []
+                },
+                {
+                    "url": "http://qzonestyle.gtimg.cn/qzone/qzact/act/external/weishi/video/pc-home-bg.mp4",
+                    "path": "media/pc-home-bg.mp4",
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "failures": [
+        "http://www.a-weishi.com/assets/logo/fonts/glyphicons-halflings-regular.eot",
+        "http://www.a-weishi.com/assets/logo/fonts/glyphicons-halflings-regular.eot?#iefix",
+        "http://www.a-weishi.com/assets/logo/fonts/glyphicons-halflings-regular.woff2",
+        "http://www.a-weishi.com/assets/logo/fonts/glyphicons-halflings-regular.woff",
+        "http://www.a-weishi.com/assets/logo/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular"
+    ]
+}
